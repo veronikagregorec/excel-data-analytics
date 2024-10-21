@@ -12,6 +12,7 @@ Microsoft Excel for data analytics.
 - MIN
 - COUNT
 - IF
+and Flash Fill
 
 ### Creating Tables
 - Adding slicer
